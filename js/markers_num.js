@@ -1,8 +1,8 @@
   L.marker([-1171.5, 3826], {icon: cardIcon4}).addTo(map)
     .bindPopup("<h2>Inside Los Santos Customs</h3><p><a href='https://content.rockstarnews.ru/up/images/4797cc9dfe41a8c7808e0e5fd8a795c4.png' data-lightbox='image-1' data-title='Inside Los Santos Customs'>Open In-Game Screenshot</a></p><div class='input-group input-group-sm mb-3'><input type='text' class='form-control' id='copy' value='https://rockstarnews.ru/map/#5/-1140.750/3857.500'><div class='input-group-append'><button class='btn btn-outline-secondary copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div></p>");
-  L.marker([-1431, 3572.5], {icon: cardIcon3}).addTo(map)
-    .bindPopup("<h2>ATM in front of Tattoo Parlor</h2><p><a href='https://content.rockstarnews.ru/up/images/4f61e86d6cec09cb930c918958dc4aa9.png' data-lightbox='image-2' data-title='ATM in front of Tattoo Parlor'>Open In-Game Screenshot</a></p><div class='input-group input-group-sm mb-3'><input type='text' class='form-control' id='copy' value='https://rockstarnews.ru/map/#4/-1480.50/3703.00'><div class='input-group-append'><button class='btn btn-outline-secondary copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>");
-  L.marker([-6381, 4303.5], {icon: cardIcon2}).addTo(map)
+  L.marker([-5744.6, 3472], {icon: cardIcon3}).addTo(map)
+    .bindPopup("<h2>Hôpital</h2><img class='logo' src='https://i.postimg.cc/FsZRsgyd/image.png'><p><a href='https://i.postimg.cc/WpSLd9yv/neblife-fa8551fbc3a20dd3fd5c57cef430459e.png' data-lightbox='image-4' data-title='Hôpital'>Ouvrir le visuel du lieu</a><h3>Hôpital</h3></p>");
+  L.marker([-6558, 3981.2], {icon: cardIcon2}).addTo(map)
     .bindPopup("<h2>Commissairiat</h2><img class='logo' src='https://i.postimg.cc/jS9mbctb/image.png'><p><a href='https://i.postimg.cc/2yjtCXt0/1627593057-363-Tous-les-emplacements-des-postes-de-police-de-GTA-5.jpg' data-lightbox='image-4' data-title='Commissairiat'>Ouvrir le visuel du lieu</a><h3>Poste de police Mesa</h3></p>");
   L.marker([-6262, 3721.5], {icon: cardIcon1}).addTo(map)
     .bindPopup("<h2>Concessionnaire</h2><img class='logo' src='https://i.postimg.cc/L5VPRxP6/IMG-20221231-064139.png'><p><a href='https://i.postimg.cc/dtGMWqnR/concessionnairmap.jpg' data-lightbox='image-4' data-title='Concessionnaire'>Ouvrir le visuel du lieu</a><h3>Premium deluxe motorsport</h3></p>");
