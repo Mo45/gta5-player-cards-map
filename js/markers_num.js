@@ -1,4 +1,4 @@
-  L.marker([-5662, 3401], {icon: cardIcon4}).addTo(map)
+https://i.postimg.cc/4d2SmHxT/image.png  L.marker([-5662, 3401], {icon: cardIcon4}).addTo(map)
     .bindPopup("<h2>Gouvernement</h2><img class='logo' src='https://i.postimg.cc/FKFth8y8/image-1.png'><p><a href='https://i.postimg.cc/Xv1P4J7B/IMG-20230102-024358.jpg' data-lightbox='image-4' data-title='Gouvernement'>Ouvrir le visuel du lieu</a><h3>Siège du gouvernement</h3></p>");
   L.marker([-5744.6, 3472], {icon: cardIcon3}).addTo(map)
     .bindPopup("<h2>Hôpital</h2><img class='logo' src='https://i.postimg.cc/FsZRsgyd/image.png'><p><a href='https://i.postimg.cc/WpSLd9yv/neblife-fa8551fbc3a20dd3fd5c57cef430459e.png' data-lightbox='image-4' data-title='Hôpital'>Ouvrir le visuel du lieu</a><h3>Hôpital Mount Zonah</h3></p>");
@@ -26,22 +26,23 @@
     .bindPopup("<h2>Banque central</h2><img class='logo' src='https://i.postimg.cc/mgKNn3pq/image.png'><p><a href='https://i.postimg.cc/NFj2trRh/Pacific-Standard-Public-Deposit-Bank-GTAV.png' data-lightbox='image-4' data-title='Banque central'>Ouvrir le visuel du lieu</a><h3>Banque Pacific-Standard</h3></p>");
   
 L.marker([-6211.25, 3854.7], {icon: cardIcon14}).addTo(map)
-    .bindPopup("<h2>Banque rurale</h2><img class='logo' src='https://i.postimg.cc/Rhj0cTT1/image.png'><p><a href='https://i.postimg.cc/5083LP11/Bolingbroke-Penitentiary-GTAV.png' data-lightbox='image-4' data-title='Fleeca Bank'>Ouvrir le visuel du lieu</a><h3>Pillbox Hill bank</h3></p>");
+    .bindPopup("<h2>Banque rurale</h2><img class='logo' src='https://i.postimg.cc/4d2SmHxT/image.png'><p><a href='https://i.postimg.cc/5083LP11/Bolingbroke-Penitentiary-GTAV.png' data-lightbox='image-4' data-title='Fleeca Bank'>Ouvrir le visuel du lieu</a><h3>Pillbox Hill bank</h3></p>");
   L.marker([-5720, 3965], {icon: cardIcon14}).addTo(map)
-    .bindPopup("<h2>Banque rurale</h2><img class='logo' src='https://i.postimg.cc/Rhj0cTT1/image.png'><p><a href='https://i.postimg.cc/5083LP11/Bolingbroke-Penitentiary-GTAV.png' data-lightbox='image-4' data-title='Fleeca Bank'>Ouvrir le visuel du lieu</a><h3>Atla bank</h3></p>");
+    .bindPopup("<h2>Banque rurale</h2><img class='logo' src='https://i.postimg.cc/4d2SmHxT/image.png'><p><a href='https://i.postimg.cc/5083LP11/Bolingbroke-Penitentiary-GTAV.png' data-lightbox='image-4' data-title='Fleeca Bank'>Ouvrir le visuel du lieu</a><h3>Atla bank</h3></p>");
     L.marker([-5742.5, 2957], {icon: cardIcon14}).addTo(map)
-    .bindPopup("<h2>Banque rurale</h2><img class='logo' src='https://i.postimg.cc/Rhj0cTT1/image.png'><p><a href='https://i.postimg.cc/5083LP11/Bolingbroke-Penitentiary-GTAV.png' data-lightbox='image-4' data-title='Fleeca Bank'>Ouvrir le visuel du lieu</a><h3>Rockford Hills bank</h3></p>");
+    .bindPopup("<h2>Banque rurale</h2><img class='logo' src='https://i.postimg.cc/4d2SmHxT/image.png'><p><a href='https://i.postimg.cc/5083LP11/Bolingbroke-Penitentiary-GTAV.png' data-lightbox='image-4' data-title='Fleeca Bank'>Ouvrir le visuel du lieu</a><h3>Rockford Hills bank</h3></p>");
   L.marker([-5552.5, 3527.25], {icon: cardIcon14}).addTo(map)
-    .bindPopup("<h2>Banque rurale</h2><img class='logo' src='https://i.postimg.cc/Rhj0cTT1/image.png'><p><a href='https://i.postimg.cc/5083LP11/Bolingbroke-Penitentiary-GTAV.png' data-lightbox='image-4' data-title='Fleeca Bank'>Ouvrir le visuel du lieu</a><h3>Burton bank</h3></p>");
+    .bindPopup("<h2>Banque rurale</h2><img class='logo' src='https://i.postimg.cc/4d2SmHxT/image.png'><p><a href='https://i.postimg.cc/5083LP11/Bolingbroke-Penitentiary-GTAV.png' data-lightbox='image-4' data-title='Fleeca Bank'>Ouvrir le visuel du lieu</a><h3>Burton bank</h3></p>");
     L.marker([-3750, 4526], {icon: cardIcon14}).addTo(map)
-    .bindPopup("<h2>Banque rurale</h2><img class='logo' src='https://i.postimg.cc/Rhj0cTT1/image.png'><p><a href='https://i.postimg.cc/5083LP11/Bolingbroke-Penitentiary-GTAV.png' data-lightbox='image-4' data-title='Fleeca Bank'>Ouvrir le visuel du lieu</a><h3>Blaine County bank</h3></p>");
+    .bindPopup("<h2>Banque rurale</h2><img class='logo' src='https://i.postimg.cc/4d2SmHxT/image.png'><p><a href='https://i.postimg.cc/5083LP11/Bolingbroke-Penitentiary-GTAV.png' data-lightbox='image-4' data-title='Fleeca Bank'>Ouvrir le visuel du lieu</a><h3>Blaine County bank</h3></p>");
   L.marker([-5211.2, 1798.2], {icon: cardIcon14}).addTo(map)
-    .bindPopup("<h2>Banque rurale</h2><img class='logo' src='https://i.postimg.cc/Rhj0cTT1/image.png'><p><a href='https://i.postimg.cc/5083LP11/Bolingbroke-Penitentiary-GTAV.png' data-lightbox='image-4' data-title='Fleeca Bank'>Ouvrir le visuel du lieu</a><h3>LS County bank</h3></p>");
+    .bindPopup("<h2>Banque rurale</h2><img class='logo' src='https://i.postimg.cc/4d2SmHxT/image.png'><p><a href='https://i.postimg.cc/5083LP11/Bolingbroke-Penitentiary-GTAV.png' data-lightbox='image-4' data-title='Fleeca Bank'>Ouvrir le visuel du lieu</a><h3>LS County bank</h3></p>");
   
 L.marker([-5866, 2854], {icon: cardIcon15}).addTo(map)
-    .bindPopup("<h2>Agence immobilier</h2><img class='logo' src='https://i.postimg.cc/Rhj0cTT1/image.png'><p><a href='https://i.postimg.cc/5083LP11/Bolingbroke-Penitentiary-GTAV.png' data-lightbox='image-4' data-title='Pénitencierhaute sécurité'>Ouvrir le visuel du lieu</a><h3>Pénitencier Bolingbroke</h3></p>");
+    .bindPopup("<h2>Agence immobilier</h2><img class='logo' src='https://i.postimg.cc/Kc6RM9VR/image.png'><p><a href='https://i.postimg.cc/5083LP11/Bolingbroke-Penitentiary-GTAV.png' data-lightbox='image-4' data-title='Agence immobilère'>Ouvrir le visuel du lieu</a><h3>Agence Del Perro</h3></p>");
   L.marker([-6946, 4298], {icon: cardIcon16}).addTo(map)
-    .bindPopup("<h2>Armurie ammu-nation</h2><img class='logo' src='https://i.postimg.cc/Rhj0cTT1/image.png'><p><a href='https://i.postimg.cc/5083LP11/Bolingbroke-Penitentiary-GTAV.png' data-lightbox='image-4' data-title='Pénitencierhaute sécurité'>Ouvrir le visuel du lieu</a><h3>Pénitencier Bolingbroke</h3></p>");
+    .bindPopup("<h2>Armurie LS</h2><img class='logo' src='https://i.postimg.cc/KvGDd8GP/image.png'><p><a href='https://i.postimg.cc/5083LP11/Bolingbroke-Penitentiary-GTAV.png' data-lightbox='image-4' data-title='Pénitencierhaute sécurité'>Ouvrir le visuel du lieu</a><h3>Ammu-Nation East LS</h3></p>");
+
   L.marker([-3524.5, 5071.5], {icon: cardIcon17}).addTo(map)
     .bindPopup("<h2>Yellow Jack Bar</h2><p><a href='https://content.rockstarnews.ru/up/images/4cefa6c429608d139827d9671b1a3cfc.jpg' data-lightbox='image-11' data-title='Yellow Jack Bar'>Open In-Game Screenshot</a></p><div class='input-group input-group-sm mb-3'><input type='text' class='form-control' id='copy' value='https://rockstarnews.ru/map/#5/-1140.750/3857.500'><div class='input-group-append'><button class='btn btn-outline-secondary copy' data-clipboard-target='#copy' type='button'>Copy</button></div></div>");
   L.marker([-3839, 5299.5], {icon: cardIcon18}).addTo(map)
