@@ -11,7 +11,7 @@
   L.marker([-6336.25, 2547.25], {icon: cardIcon8}).addTo(map)
     .bindPopup("<h2>Fête foraine</h2><img class='logo' src='https://i.postimg.cc/8PJDH4hh/image.png'><p><a href='https://i.postimg.cc/9MbX6fMZ/1.jpg' data-lightbox='image-4' data-title='Fête foraine'>Ouvrir le visuel du lieu</a><h3>Fête foraine Del Perro</h3></p>");
   L.marker([-6232.6, 4240], {icon: cardIcon6}).addTo(map)
-    .bindPopup("<h2>Los Santos Custom</h2><img class='logo' src='https://i.postimg.cc/zfHcDKmt/image.png'><p><a href='https://i.postimg.cc/L8Cc8mJX/18570451fc09-11f446-EF6-F3-CA740-BD3-71-FEE5-A69-D18-C63-A-message-428192208281975-1672625813601.jpg' data-lightbox='image-4' data-title='Los Santos Custom'>Ouvrir le visuel du lieu</a><h3>LS Custom Mesa</h3></p>");
+    .bindPopup("<h2>Los Santos Custom</h2><img class='logo' src='https://i.postimg.cc/250TR87b/image.png'><p><a href='https://i.postimg.cc/L8Cc8mJX/18570451fc09-11f446-EF6-F3-CA740-BD3-71-FEE5-A69-D18-C63-A-message-428192208281975-1672625813601.jpg' data-lightbox='image-4' data-title='Los Santos Custom'>Ouvrir le visuel du lieu</a><h3>LS Custom Mesa</h3></p>");
   L.marker([-7339, 3075.5], {icon: cardIcon7}).addTo(map)
     .bindPopup("<h2>Aeroport Los Santos</h2><img class='logo' src='https://i.postimg.cc/Mph3X4Jd/image.png'><p><a href='https://i.postimg.cc/8cPtqgLP/LSIA-Birds-eye-view.jpg' data-lightbox='image-4' data-title='Aéroport'>Ouvrir le visuel du lieu</a><h3>Aéroport Los Santos</h3></p>");
   L.marker([-2688, 5536.5], {icon: cardIcon10}).addTo(map)
