@@ -35,6 +35,8 @@ L.marker([-6211.25, 3854.7], {icon: cardIcon14}).addTo(map)
     .bindPopup("<h2>Banque rurale</h2><img class='logo' src='https://i.postimg.cc/Rhj0cTT1/image.png'><p><a href='https://i.postimg.cc/5083LP11/Bolingbroke-Penitentiary-GTAV.png' data-lightbox='image-4' data-title='Fleeca Bank'>Ouvrir le visuel du lieu</a><h3>Burton bank</h3></p>");
     L.marker([-3750, 4526], {icon: cardIcon14}).addTo(map)
     .bindPopup("<h2>Banque rurale</h2><img class='logo' src='https://i.postimg.cc/Rhj0cTT1/image.png'><p><a href='https://i.postimg.cc/5083LP11/Bolingbroke-Penitentiary-GTAV.png' data-lightbox='image-4' data-title='Fleeca Bank'>Ouvrir le visuel du lieu</a><h3>Blaine County bank</h3></p>");
+  L.marker([-5211.2, 1798.2], {icon: cardIcon14}).addTo(map)
+    .bindPopup("<h2>Banque rurale</h2><img class='logo' src='https://i.postimg.cc/Rhj0cTT1/image.png'><p><a href='https://i.postimg.cc/5083LP11/Bolingbroke-Penitentiary-GTAV.png' data-lightbox='image-4' data-title='Fleeca Bank'>Ouvrir le visuel du lieu</a><h3>LS County bank</h3></p>");
   
 L.marker([-5866, 2854], {icon: cardIcon15}).addTo(map)
     .bindPopup("<h2>Agence immobilier</h2><img class='logo' src='https://i.postimg.cc/Rhj0cTT1/image.png'><p><a href='https://i.postimg.cc/5083LP11/Bolingbroke-Penitentiary-GTAV.png' data-lightbox='image-4' data-title='Pénitencierhaute sécurité'>Ouvrir le visuel du lieu</a><h3>Pénitencier Bolingbroke</h3></p>");
