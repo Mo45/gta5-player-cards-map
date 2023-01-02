@@ -19,7 +19,7 @@
   L.marker([-1867.5, 4066], {icon: cardIcon9}).addTo(map)
     .bindPopup("<h2>Mont Chilliad</h2><img class='logo' src='https://i.postimg.cc/NfPgM1Gp/image.png'><p><a href='https://i.postimg.cc/QxZQzTZY/Mount-Chiliad-GTAV.webp' data-lightbox='image-4' data-title='Mont Chilliad'>Ouvrir le visuel du lieu</a><h3>Mont Chilliad</h3></p>");
   L.marker([-3815.5, 4963.5], {icon: cardIcon11}).addTo(map)
-    .bindPopup("<h2>Pénitenier Bolingbroke</h2><img class='logo' src='https://i.postimg.cc/nhBbHSFx/pris.png'><p><a href='https://i.postimg.cc/5083LP11/Bolingbroke-Penitentiary-GTAV.png' data-lightbox='image-4' data-title='Pénitencier haute sécurité'>Ouvrir le visuel du lieu</a><h3>Pénitencier Bolingbroke</h3></p>");
+    .bindPopup("<h2>Pénitenier Bolingbroke</h2><img class='logo' src='https://i.ibb.co/dmQ65fQ/pris.png'><p><a href='https://i.postimg.cc/5083LP11/Bolingbroke-Penitentiary-GTAV.png' data-lightbox='image-4' data-title='Pénitencier haute sécurité'>Ouvrir le visuel du lieu</a><h3>Pénitencier Bolingbroke</h3></p>");
   L.marker([-5626, 4326.5], {icon: cardIcon12}).addTo(map)
     .bindPopup("<h2>Taxi</h2><img class='logo' src='https://i.postimg.cc/d3yjw4Hg/image.png'><p><a href='https://i.postimg.cc/bN0fP2CF/Downtown-Cab-Co-V.jpg' data-lightbox='image-4' data-title='Dépôt taxi'>Ouvrir le visuel du lieu</a><h3>Dépot taxi Downtown</h3></p>");
   L.marker([-5389, 3914.5], {icon: cardIcon13}).addTo(map)
